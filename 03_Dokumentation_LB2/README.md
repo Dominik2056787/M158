@@ -1,4 +1,7 @@
-# Projektplanung – LB2 WordPress Migration
+# Dokumentation LB2
+
+
+## Projektplanung – LB2 WordPress Migration
 
 In diesem Abschnitt habe ich einen Projektplan für meine WordPress-Migration erstellt. Der Plan zeigt alle wichtigen Aufgaben, die ich in den verschiedenen Phasen erledigen muss – von der Planung über das Einrichten der Server bis hin zur Migration und dem Abschluss.
 
