@@ -39,4 +39,5 @@ gantt
     Projekt reflektieren                :e4, after e3, 1d
     Projekt abgeschlossen               :milestone, after e4, 0d
 ```
-![image](https://github.com/user-attachments/assets/aab6d69e-004f-4b6a-b74c-984c8a1346da)
+![image](https://github.com/user-attachments/assets/063230f7-29b1-4ab0-bf7c-feb69fef9827)
+
