@@ -38,3 +38,5 @@ gantt
     Lehrer zeigen                       :e3, after e2, 1d
     Projekt reflektieren                :e4, after e3, 1d
     Projekt abgeschlossen               :milestone, after e4, 0d
+```
+![image](https://github.com/user-attachments/assets/aab6d69e-004f-4b6a-b74c-984c8a1346da)
