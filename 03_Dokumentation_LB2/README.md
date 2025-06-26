@@ -39,5 +39,18 @@ gantt
     Projekt reflektieren                :e4, after e3, 1d
     Projekt abgeschlossen               :milestone, after e4, 0d
 ```
+
+Mein Architekturdiagramm finden sie in den datein als draw.io file.
+
+
+## Hier sieht man mein Wordpress dashboard und die Login Daten
+
+![image](https://github.com/user-attachments/assets/f881600b-48dc-4eaf-861f-7ab710fe6dc6)
+
 ![image](https://github.com/user-attachments/assets/063230f7-29b1-4ab0-bf7c-feb69fef9827)
 
+## Hier sieht man mein phpinfo.php im Browser meines lokalen Notebooks
+
+![image](https://github.com/user-attachments/assets/ad2b0a5f-fd2d-4b01-bbe7-1fdda866a406)
+
+Gelb Markiert sieht man die einträge die ich geändert habe.
