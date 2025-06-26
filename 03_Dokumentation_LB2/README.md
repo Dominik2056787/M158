@@ -69,3 +69,6 @@ Hier sieht man die Sicherheitsgruppe die ich erstellt habe. Ich habe die ganze u
 ![image](https://github.com/user-attachments/assets/ad2b0a5f-fd2d-4b01-bbe7-1fdda866a406)
 
 Gelb Markiert sieht man die einträge die ich geändert habe.
+
+
+Mein passwort für den Root user ist TBZ12345!
