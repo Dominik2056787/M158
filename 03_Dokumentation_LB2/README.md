@@ -40,9 +40,24 @@ gantt
     Projekt abgeschlossen               :milestone, after e4, 0d
 ```
 
-Mein Architekturdiagramm finden sie in den datein als draw.io file.
+### Mein Architekturdiagramm finden sie hochgeladene datei als draw.io file.
 
+## Hier sehen sie screenshots meiner umgebung die ich aufgebaut habe
 
+![image](https://github.com/user-attachments/assets/bc5b277f-61e2-41dc-9567-ed6ee998488d)
+Hier sieht man meine Server
+
+![image](https://github.com/user-attachments/assets/85003dcf-8d27-499b-8e5a-770a448f74cd)
+
+Diese Server laufen in diesem VPC.
+
+![image](https://github.com/user-attachments/assets/e9454b0e-64d0-4b06-bcdd-fe2be8920178)
+
+Hier sieht man das Subnetz das ich erstellt habe.
+
+![image](https://github.com/user-attachments/assets/59f94f36-adf9-43f2-865e-646fc97ab47b)
+
+Hier sieht man die Sicherheitsgruppe die ich erstellt habe. Ich habe die ganze umgebung wie in meinem Architekturdiagramm aufgebaut die Ip Addresen stimmen auch. Dan habe ich mir noch 3 éffentliche Ips gemacht damit ich auf meine Instnazen komme mit ssh.
 ## Hier sieht man mein Wordpress dashboard und die Login Daten
 
 ![image](https://github.com/user-attachments/assets/f881600b-48dc-4eaf-861f-7ab710fe6dc6)
